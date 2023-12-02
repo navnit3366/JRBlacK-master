@@ -1,0 +1,14 @@
+datetime
+discord.py
+pymongo
+psutil
+requests
+pillow
+wikipedia
+humanize
+beautifulsoup4
+git+https://github.com/Rapptz/discord-ext-menus.git
+newsapi-python
+python-whois
+python3-nmap
+aiohttp
